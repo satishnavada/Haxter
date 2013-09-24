@@ -1,0 +1,36 @@
+{
+  "deals": {
+    "deal": [
+      {
+        "dealid": "1000",
+        "productname": "Fitness Club",
+        "place": "WhiteField",
+        "value": "Rs1500",
+        "discount": "Rs.500",
+        "description": "Lorepsum",
+        "latitude": "70.45",
+        "longitude": "40.5"
+      },
+      {
+        "dealid": "1000",
+        "productname": "Fitness Club",
+        "place": "WhiteField",
+        "value": "Rs1500",
+        "discount": "Rs.500",
+        "description": "Lorepsum",
+        "latitude": "70.45",
+        "longitude": "40.5"
+      },
+      {
+        "dealid": "1000",
+        "productname": "Fitness Club",
+        "place": "WhiteField",
+        "value": "Rs1500",
+        "discount": "Rs.500",
+        "description": "Lorepsum",
+        "latitude": "70.45",
+        "longitude": "40.5"
+      }
+    ]
+  }
+}
