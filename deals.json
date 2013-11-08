@@ -1,6 +1,6 @@
+[
 
-{
-"sponsor_posts": [
+  "sponsor_posts": [
         {
             "description": "Test post",
             "title": "Test post for D1 App",
@@ -58,8 +58,8 @@
             "id": 57836
         }
     ],
-    "max_hit": 503,
-[
+
+
     {
         "tweet": {
             "screenName": "brooklynpeach",
@@ -346,5 +346,3 @@
         "firstSeenString": null
     }
 ]
-
-}
